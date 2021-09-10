@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.test-typer{
+    background-image: url("ash.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.test-typer h1{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 40%;
+    left: 7%;
+    display: inline-block;
+    
+}
+.text-color {
+    color:#ff8100;
+}
+.typed-cursor {
+    color:#ff8100;
+}
